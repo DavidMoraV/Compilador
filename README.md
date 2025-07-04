@@ -8,18 +8,25 @@ Este proyecto contiene dos carpetas, cada una con su compilador adaptado a la et
    - Contiene el c1shell.py con el análisis léxico + sintáctico extendido.
    - Procesa correctamente '^', '/', 'if', comparadores y strings.
 
-📂 Estructura del proyecto
+Estructura del proyecto
 
 proyecto_compilador_final_entrega/
+
 ├── compilador_etapa1/
+
 │   ├── c1shell.py
+
 │   ├── c1.in
+
 └── compilador_etapa2/
+
+ 
     ├── c1shell.py
+ 
     ├── c1.in
 
 ----------------------------------------------------
-▶ Cómo ejecutar cada etapa (en la terminal de python)
+Cómo ejecutar cada etapa (en la terminal de python)
 ----------------------------------------------------
 
 Para la Etapa 1
