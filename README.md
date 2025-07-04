@@ -14,16 +14,15 @@ proyecto_compilador_final_entrega/
 
 ├── compilador_etapa1/
 
-│   ├── c1shell.py
+   │   ├── c1shell.py
 
-│   ├── c1.in
+   │   ├── c1.in
 
 └── compilador_etapa2/
-
  
-    ├── c1shell.py
+   ├── c1shell.py
  
-    ├── c1.in
+   ├── c1.in
 
 ----------------------------------------------------
 Cómo ejecutar cada etapa (en la terminal de python)
