@@ -9,7 +9,7 @@ Este proyecto contiene dos carpetas, cada una con su compilador adaptado a la et
    - Procesa correctamente '^', '/', 'if', comparadores y strings.
 
 📂 Estructura del proyecto
-----------------------------------------------------
+
 proyecto_compilador_final_entrega/
 ├── compilador_etapa1/
 │   ├── c1shell.py
